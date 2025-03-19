@@ -1,3 +1,14 @@
 {
-  
+    "subfinder": "https://github.com/projectdiscovery/subfinder",
+    "sublist3r": "https://github.com/aboul3la/Sublist3r",
+    "Findomain": "https://github.com/Findomain/Findomain",
+    "httpx": "https://github.com/projectdiscovery/httpx",
+    "ffuf": "https://github.com/ffuf/ffuf",
+    "gobuster": "https://github.com/OJ/gobuster",
+    "tplmap": "https://github.com/epinna/tplmap",
+    "XSStrike": "https://github.com/s0md3v/XSStrike",
+    "nikto": "https://github.com/sullo/nikto",
+    "nuclei": "https://github.com/projectdiscovery/nuclei",
+    "wpscan": "https://github.com/wpscanteam/wpscan",
+    "SecLists": "https://github.com/danielmiessler/SecLists"
 }
